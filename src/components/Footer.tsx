@@ -11,7 +11,7 @@ function Footer() {
         <a href={data?.githubUrl} target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href={data?.linkedinUrl} target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>A portfolio designed by Yuji Sato & built by <a href="https://github.com/yujisatojr/react-portfolio-template" target="_blank" rel="noreferrer">Prajesh Kotian</a> with 💜</p>
+      <p>A portfolio designed by Yuji Sato & built by <a href="https://github.com/prajeshkotian/react-portfolio-template" target="_blank" rel="noreferrer">Prajesh Kotian</a> with 💜</p>
     </footer>
   );
 }
